@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 背景颜色值 -->
+    <color name="color3">#333333</color>
+    <color name="color6">#666666</color>
+    <color name="color9">#999999</color>
+    <color name="colorC">#CCCCCC</color>
+    <color name="colorOrange">#FE880E</color>
+    <color name="colorWhite">#FFF</color>
+    <color name="colorRed">#F00</color>
+    <color name="colorGray">#F5EEE4</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorBackground">#EEEE</color>
+    <color name="yellow_warning">#FFFF99</color>
+</resources>
